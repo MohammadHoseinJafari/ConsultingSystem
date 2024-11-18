@@ -26,6 +26,16 @@ The Consulting System is designed to connect users with expert consultants and f
 - Python
 - Django
 
+Technologies :
+- Django 
+- DRF 
+- ORM , Celery
+- Docker , Cloud Applications , CI CD , Redis , Jenkins 
+- MongoDB
+- Frontend (Html - vue js - bootstrap - css - javascript - chart js )
+- UI UX (figma)
+- Data Analyzations ( Pandas , R )
+  
 
 some screenshot from Demo Result : 
 .
